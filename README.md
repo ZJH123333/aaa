@@ -6,7 +6,7 @@ The source code for **s**pecificity-aware **f**ederated **g**raph **l**earning (
 
 Junhao Zhang, Qianqian Wang, Xiaochuan Wang, Lishan Qiao, Mingxia Liu
 
-## Dataset
+## Datasets
 We used the following datasets:
 
 - ABIDE (Can be downloaded [here](http://fcon_1000.projects.nitrc.org/indi/abide/))
