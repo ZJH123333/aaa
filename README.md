@@ -23,3 +23,6 @@ SFGL needs the following dependencies:
 - sklearn==0.0
 - tqdm==4.63.0
 - pandas==1.3.2
+
+## Structure
+    - `./sfgl_ours.py`: The main functions for our proposed SFGL.
