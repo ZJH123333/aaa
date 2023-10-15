@@ -15,10 +15,10 @@ We used the following datasets:
 ## Dependencies
 SFGL needs the following dependencies:
 
--torch==1.9.0
--numpy==1.21.1
--einops==0.6.1
--scipy==1.7.1
--sklearn==0.0
--tqdm==4.63.0
--pandas==1.3.2
+- torch==1.9.0
+- numpy==1.21.1
+- einops==0.6.1
+- scipy==1.7.1
+- sklearn==0.0
+- tqdm==4.63.0
+- pandas==1.3.2
