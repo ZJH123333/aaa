@@ -16,13 +16,13 @@ We used the following datasets:
 SFGL needs the following dependencies:
 
 - python 3.8.10
-- torch==1.9.0
-- numpy==1.21.1
-- einops==0.6.1
-- scipy==1.7.1
-- sklearn==0.0
-- tqdm==4.63.0
-- pandas==1.3.2
+- torch == 1.9.0
+- numpy == 1.21.1
+- einops == 0.6.1
+- scipy == 1.7.1
+- sklearn == 0.0
+- tqdm == 4.63.0
+- pandas == 1.3.2
 
 ## Structure
     - `./sfgl_ours.py`: The main functions for our proposed SFGL.
