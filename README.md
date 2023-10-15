@@ -10,4 +10,4 @@ Junhao Zhang, Qianqian Wang, Xiaochuan Wang, Lishan Qiao, Mingxia Liu
 We used the following datasets:
 
 - ABIDE (Can be downloaded [here](http://fcon_1000.projects.nitrc.org/indi/abide/))
-- MDD (Can be downloaded [here](http://rfmri.org/REST-meta-MDD))
+- REST-meta-MDD (Can be downloaded [here](http://rfmri.org/REST-meta-MDD))
