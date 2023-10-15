@@ -25,4 +25,10 @@ SFGL needs the following dependencies:
 - pandas == 1.3.2
 
 ## Structure
-    - `./sfgl_ours.py`: The main functions for our proposed SFGL.
+    - `./training.py`: The main functions for SFGL.
+    - `./abide_dataset.py`: Data preparation for ABIDE.
+    - `./mdd_dataset.py`: Data preparation for REST-meta-MDD.
+    - `./model.py`: The model used in SFGL.
+    - `./weight_avg.py`: This is federal aggregation function.
+    - `./bold.py`: This is used to construct the dynamic FCN.
+    - `./option.py`: This is used to adjust the options.
