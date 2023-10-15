@@ -15,6 +15,7 @@ We used the following datasets:
 ## Dependencies
 SFGL needs the following dependencies:
 
+- python 3.8.10
 - torch==1.9.0
 - numpy==1.21.1
 - einops==0.6.1
